@@ -1,0 +1,1 @@
+This is a demo vault for [Obsidian](https://obsidian.md), a Markdown-based editor with many features that I use for my self-management. This repository is a striped-down version of my own vault and can be used as a template.
